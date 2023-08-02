@@ -27,7 +27,7 @@ export default class App extends React.Component {
         <Header
           backgroundColor={'#9c8210'}
           centerComponent={{
-            text: 'Mono Fragmentado',
+            text: 'Aplicacion para aprender a leer',
             style: { color: '#fff', fontSize: 20 },
           }}
         />
